@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+😄 Pronouns: he/him
+🔭 I’m currently working on my portfolio site
+🌱 I’m currently learning Vue 3, Nuxt 3, Typescript, Supabase, Prisma
+
 <!--
 **marfalkov/marfalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
