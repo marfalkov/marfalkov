@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 😄 Pronouns: he/him
 - 🔭 I’m currently working on my portfolio site
 - 🌱 I’m currently learning Tailwind, Vue 3, Nuxt 3, Typescript, Supabase, Prisma
 
