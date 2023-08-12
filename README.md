@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio site
-- 🌱 I’m currently learning Vue 3, Nuxt 3, Typescript, tRPC, Prisma, Tanstack Query, Supabase
+- 🌱 I’m currently learning Typescript, tRPC, Prisma, Tanstack Query, Supabase
 
 <!--
 **marfalkov/marfalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
