@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Typescript and Svelte
+- 🌱 I’m currently learning new things
 
 <!--
 **marfalkov/marfalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
